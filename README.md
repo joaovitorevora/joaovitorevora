@@ -2,7 +2,7 @@
 
 - 🌱 Estudando JavaScript / CSS 
 - 🤔 Qualquer ajuda ou informação irá agregar , Sempre disposto a aprender!
-- 😄 Idade: 21 anos
+- 😄 Idade: 22 anos
 
 <div align="center">
   <a href="https://github.com/joaovitorevora">
