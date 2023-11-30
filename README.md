@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor Dias Évora 👋
 
-- 🌱 Estudando CSS / JavaScript / Jquery / React 
+- 🌱 Estudando CSS / JavaScript / Jquery / React / PHP / Python / MySQL
 - 🤔 Qualquer ajuda ou informação irá agregar , Sempre disposto a aprender!
 - 😄 Idade: 23 anos
 
