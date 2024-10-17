@@ -2,7 +2,7 @@
 
 - 🌱 CSS / JavaScript / Jquery / React / PHP / Python / MySQL / Java
 - 🤔 Qualquer ajuda ou informação irá agregar , Sempre disposto a aprender!
-- 😄 Idade: 23 anos
+- 😄 Idade: 24 anos
 
 <div align="center">
   <a href="https://github.com/joaovitorevora">
