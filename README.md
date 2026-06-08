@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vitor Dias Évora 👋
 
-- 🌱 CSS / JavaScript / Jquery / React / PHP / Python / MySQL / Java
-- 🤔 Qualquer ajuda ou informação irá agregar , Sempre disposto a aprender!
+- 🌱 CSS / JavaScript / Jquery / React / Typescript / PHP / Python / MySQL / Java
+- 🤔 Sobre: Desenvolvedor Full Stack, com habilidades em desenvolvimento web, criação de sistemas integrados, microsservicos.
 - 😄 Idade: 25 anos
 
 <div align="center">
